@@ -1,4 +1,4 @@
-blackIp:
-  continueCounts: 15  #ipÁ¬ĞøÇëÇóµÄ´ÎÊı
-  timeInterval: 10  #ipÅĞ¶ÏµÄÊ±¼ä¼ä¸ô
-  limitTimes: 600  #ÏŞÖÆ·ÃÎÊµÄÊ±¼ä
+ï»¿blackIp:
+  continueCounts: 15  #ipè¿ç»­è¯·æ±‚çš„æ¬¡æ•°
+  timeInterval: 10  #ipåˆ¤æ–­çš„æ—¶é—´é—´éš”
+  limitTimes: 600  #é™åˆ¶è®¿é—®çš„æ—¶é—´
