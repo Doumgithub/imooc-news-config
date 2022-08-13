@@ -1,4 +1,4 @@
 ﻿blackIp:
-  continueCounts: 35  #ip连续请求的次数
-  timeInterval: 15  #ip判断的时间间隔
-  limitTimes: 620  #限制访问的时间
+  continueCounts: 6  #ip连续请求的次数
+  timeInterval: 66  #ip判断的时间间隔
+  limitTimes: 666  #限制访问的时间
